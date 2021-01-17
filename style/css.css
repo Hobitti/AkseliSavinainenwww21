@@ -3,3 +3,8 @@ body {
 	font-family:"Times New Roman";
 	color:#800080;
 }
+h1 {
+	color:red;
+	font-size:16px;
+	 border-bottom: 5px solid red;
+}
